@@ -1,0 +1,5 @@
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.1\My\Task_6\bin\Debug\Task_6.exe.config
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.1\My\Task_6\bin\Debug\Task_6.exe
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.1\My\Task_6\bin\Debug\Task_6.pdb
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.1\My\Task_6\obj\Debug\Task_6.exe
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.1\My\Task_6\obj\Debug\Task_6.pdb

@@ -1,0 +1,5 @@
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\NightClubs\bin\Debug\NightClubs.exe.config
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\NightClubs\bin\Debug\NightClubs.exe
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\NightClubs\bin\Debug\NightClubs.pdb
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\NightClubs\obj\Debug\NightClubs.exe
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\NightClubs\obj\Debug\NightClubs.pdb

@@ -1,0 +1,7 @@
+E:\My Documents\SoftUni\Basics_201502\homework\EmptyProject\Task_2\bin\Debug\Task_2.exe.config
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Task_2\bin\Debug\Task_2.exe.config
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Task_2\bin\Debug\Task_2.exe
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Task_2\bin\Debug\Task_2.pdb
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Task_2\obj\Debug\Task_2.exe
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Task_2\obj\Debug\Task_2.pdb

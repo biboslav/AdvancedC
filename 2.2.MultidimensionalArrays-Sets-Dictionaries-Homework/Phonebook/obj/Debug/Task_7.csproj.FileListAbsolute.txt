@@ -1,0 +1,6 @@
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Phonebook\bin\Debug\Phonebook.exe.config
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Phonebook\bin\Debug\Phonebook.exe
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Phonebook\bin\Debug\Phonebook.pdb
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Phonebook\obj\Debug\Task_7.csprojResolveAssemblyReference.cache
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Phonebook\obj\Debug\Phonebook.exe
+E:\My Documents\SoftUni\Fundam\Advanced C#\Homework\2.2\My\Phonebook\obj\Debug\Phonebook.pdb
